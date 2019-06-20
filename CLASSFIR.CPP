@@ -1,4 +1,4 @@
-d#include<iostream.h>
+#include<iostream.h>
 #include<conio.h>
 class addition{
 // no argument no return
